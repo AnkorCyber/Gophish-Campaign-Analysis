@@ -26,6 +26,11 @@ The project focuses on the configuration, execution, monitoring, and analysis of
 | Phishing Simulation Platform | GoPhish |
 | Environment | Controlled Laboratory |
 | Purpose | Phishing Simulation & Security Awareness |
+| Virtualization Platform | Oracle VirtualBox |
+### Lab Environment
+
+The following screenshot shows the Kali Linux environment used during the project.
+
 
 ## Tools Used
 
