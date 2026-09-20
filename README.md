@@ -31,8 +31,8 @@ The project focuses on the configuration, execution, monitoring, and analysis of
 
 The following screenshot shows the Kali Linux environment used during the project.
 
-![GoPhish Dashboard](../screenshots/Dashboard.png
-ng)
+![GoPhish Dashboard]
+![image alt] ([../screenshots/Dashboard.pngng](https://github.com/AnkorCyber/Gophish-Campaign-Analysis/blob/daca77553e6b6c06d7f330305c12917d91a0599c/screenshots/Dashboard.png.png))
 
 ## Tools Used
 
