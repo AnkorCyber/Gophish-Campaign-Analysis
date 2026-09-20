@@ -37,6 +37,13 @@ The phishing campaign was configured using the different components available wi
 
 <img width="1280" height="606" alt="Image" src="https://github.com/user-attachments/assets/d72ffbe0-b09b-48da-a012-7864d2357a5c" />
 
+
+<img width="1280" height="606" alt="Image" src="https://github.com/user-attachments/assets/58b3ce49-d7c8-4110-bff4-b70d73efb548" />
+
+
+Retrieved the auto-generated admin credentials from the terminal output and logged into the admin panel at [https://127.0.0.1:3333](https://127.0.0.1:3333/)
+
+
 ### Sending Profile
 
 <img width="1280" height="606" alt="Image" src="https://github.com/user-attachments/assets/95c40861-d3d3-4222-aaf1-1c4e278dac43" />
