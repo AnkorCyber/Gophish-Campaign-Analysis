@@ -101,7 +101,6 @@ Data Submitted: 3
 
 ## Project Workflow
 
-```text
 GoPhish Configuration
         ↓
 Email Template
@@ -116,7 +115,7 @@ Campaign Monitoring
         ↓
 Results Analysis
 
-## Lessons Learned
+### Lessons Learned
 
 This project provided practical experience in planning, configuring, executing, and analyzing a controlled phishing simulation using GoPhish and Kali Linux.
 
@@ -130,7 +129,7 @@ Key lessons learned include:
 * Improving practical skills in cybersecurity documentation and evidence collection.
 * Understanding the importance of conducting phishing simulations in a controlled and authorized environment.
 
-## Conclusion
+### Conclusion
 
 The GoPhish Campaign Analysis project provided hands-on experience with phishing simulation and campaign monitoring in a controlled laboratory environment.
 
@@ -138,7 +137,7 @@ The exercise demonstrated how GoPhish can be used to configure and monitor simul
 
 Overall, the project strengthened practical knowledge of phishing awareness, email security, campaign analysis, and cybersecurity documentation.
 
-## Ethical and Security Considerations
+### Ethical and Security Considerations
 
 This project was conducted strictly for educational and cybersecurity training purposes in a controlled environment.
 
