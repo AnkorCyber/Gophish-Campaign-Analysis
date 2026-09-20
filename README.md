@@ -31,6 +31,8 @@ The project focuses on the configuration, execution, monitoring, and analysis of
 
 The following screenshot shows the Kali Linux environment used during the project.
 
+![GoPhish Dashboard](../screenshots/Dashboard.png
+ng)
 
 ## Tools Used
 
